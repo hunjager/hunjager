@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm hunjager</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hunjager&label=Profile%20views&color=0e75b6&style=flat" alt="hunjager" /> </p>
 
 - 🌱 I’m currently learning **JavaScript, C++ and C#**
 
