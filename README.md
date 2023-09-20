@@ -20,4 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hunjager&show_icons=true&locale=en&layout=compact" alt="hunjager" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hunjager&show_icons=true&locale=en" alt="hunjager" /></p>
-
