@@ -20,3 +20,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hunjager&show_icons=true&locale=en&layout=compact" alt="hunjager" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hunjager&show_icons=true&locale=en" alt="hunjager" /></p>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=hunjager&theme=dark&hide_border=false)<br/>
+
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
