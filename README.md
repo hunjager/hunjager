@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **dannynp2003@gmail.com**
 
-- ⚡ Fun fact **I read a lot of comics**
+- ⚡ Fun fact  **I read a lot of comics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
