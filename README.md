@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm hunjager</h1>
 
-- 🌱 I’m currently learning **JavaScript, three.js, C# and other game programming concepts**
+- 🌱 I’m currently improving my skills in **JavaScript, learning three.js, C# and other game programming/design concepts**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hunjager](https://github.com/hunjager)
 
