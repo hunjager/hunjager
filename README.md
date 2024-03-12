@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm hunjager</h1>
 
-- 🌱 I’m currently improving my skills in **JavaScript, learning three.js, C# and other game programming/design concepts**
+- 🌱 I’m currently improving my skills in **JavaScript, learning three.js, C# and game design**
 
-- 👨‍💻 All of my projects are available at [https://github.com/hunjager](https://github.com/hunjager)
+- 👨‍💻 All of my projects are available on <a href="https://github.com/hunjager">my github</a> 
 
 - 📫 How to reach me **chinasankwochaphilips@gmail.com**
 
