@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm hunjager</h1>
 
-- 🌱 I’m currently improving my skills in **JavaScript/React and currently learning C#, AR and Computer Graphics**
+- 🍕 I’m currently improving my skills in **JavaScript/React**
+
+- 🌱 I’m currently learning  **C#, AR and Computer Graphics**
 
 - 👨‍💻 All of my projects are available on <a href="https://github.com/hunjager">my github</a> 
 
@@ -19,8 +21,6 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a><a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
           
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hunjager&show_icons=true&locale=en&layout=compact" alt="hunjager" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hunjager&show_icons=true&locale=en" alt="hunjager"/></p>
 
 
 
