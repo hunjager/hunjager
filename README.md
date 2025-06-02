@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm hunjager</h1>
 
-- 🍕 I’m currently improving my skills in **JavaScript/React**
+- 🍕 Currently improving my skills in **JavaScript/React**
 
-- 🌱 I’m currently learning  **C#, AR and Computer Graphics**
-
-- 👨‍💻 All of my projects are available on <a href="https://github.com/hunjager">my github</a> 
+- 🌱 Learning **C#, AR and Computer Graphics**
 
 - 📫 How to reach me **chinasankwochaphilips@gmail.com**
 
